@@ -68,3 +68,7 @@ end
     puts "Playing #{song.name} by #{song.artist.name}" if song
   end
 end
+
+# require_relative './config/environment'
+# controller = MusicLibraryController.new('./spec/fixtures/mp3s')
+# controller.play_song
