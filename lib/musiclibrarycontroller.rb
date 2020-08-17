@@ -59,5 +59,7 @@ end
     end 
   end 
   
-  def 
+  def play_song
+    
+  end 
 end 
