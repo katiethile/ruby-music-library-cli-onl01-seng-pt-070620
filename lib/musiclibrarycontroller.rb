@@ -61,7 +61,8 @@ end
   
   def play_song
     puts "Which song number would you like to play?"
-    input = gets.chomp 
+    input = gets.chomp.to_i 
+    
     
     puts "Playing Larry Csonka by Action Bronson"
   end 
