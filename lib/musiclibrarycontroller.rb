@@ -48,5 +48,9 @@ end
     end 
   end
   
-  def 
+  def list_songs_by_genre
+    
+  end 
+end 
+end 
 end 
